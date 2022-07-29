@@ -1,0 +1,43 @@
+html, body{
+  height: 100%;
+}
+
+.padre {
+  height: 100%;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hijo {
+  background: grey;
+  width: 300px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cent{
+    text-align: center;
+}
+
+.contenedor{
+  height: 20%;
+  
+}
+.contenedor1{
+  height: 80%;
+  
+}
+.total{
+    width: 100%;
+}
+.blok{
+    display:inline;
+    
+}
+.totalPV{
+    width: 47px;
+}
